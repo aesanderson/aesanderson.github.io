@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /pubs/
+title: Interests
+permalink: /interests/
 ---
 
 1. A great publication.
