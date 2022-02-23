@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Group Members
-permalink: /people/
+title: Projects
+permalink: /projects/
 ---
 
 Include information about current and past group members here. 
