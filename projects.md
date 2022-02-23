@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Include information about current and past group members here. 
+Include information about current and past group members here.. 
