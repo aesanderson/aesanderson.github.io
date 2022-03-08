@@ -11,3 +11,13 @@ Recent experiments have included testing protein structure and function through 
 
 https://krwatts.wixsite.com/wattslabcalpoly
 
+### Symphony Repertoire
+
+Past and current symphony repertoire includes 
+
+- Tchaikovsky’s Romeo and Juliet 
+- Shostakovich’s Quartet No. 8 
+- Shostakovich Piano Concerto No 2. with Guest Tanya Gabriellan 
+- Bartok Divertimento for strings 
+- Rachmaninoff’s Vocalise 
+- Verdi String serenade 
